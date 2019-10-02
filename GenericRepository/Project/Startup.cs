@@ -29,6 +29,9 @@ namespace Project
             services.AddMvc();
             services.AddDbContext<RepositoryDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Development")));
             services.Add(new ServiceDescriptor(typeof(IDbService), typeof(DbService), ServiceLifetime.Transient));
+            services.Add(new ServiceDescriptor(typeof(IDbRepository<>), typeof(DbRepository<>), ServiceLifetime.Transient));
+
+            
             services.Add(new ServiceDescriptor(typeof(ICustomerService), typeof(CustomerService), ServiceLifetime.Transient));
         }
 

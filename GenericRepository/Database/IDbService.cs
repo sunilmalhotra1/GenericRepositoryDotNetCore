@@ -36,6 +36,13 @@ namespace Database
         /// <typeparam name="T"></typeparam>
         /// <returns></returns>
         DbSet<T> SetEntity<T>() where T : class;
+
+        /// <summary>
+        /// Generic Entity
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <returns></returns>
+        IDbRepository<T> Entity<T>() where T : class;
         /// <summary>
         /// Save change the context
         /// </summary>

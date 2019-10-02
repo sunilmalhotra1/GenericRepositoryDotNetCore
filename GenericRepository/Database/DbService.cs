@@ -35,7 +35,10 @@ namespace Database
         {
             return this._Context.Set<T>();
         }
-
+        public IDbRepository<T> Entity<T>() where T : class
+        {
+            return new DbRepository<T>(_Context);
+        }
         public void SaveChanges()
         {
             this._Context.SaveChanges();
