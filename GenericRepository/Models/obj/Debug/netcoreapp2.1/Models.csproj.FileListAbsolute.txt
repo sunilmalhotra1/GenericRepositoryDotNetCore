@@ -1,0 +1,8 @@
+D:\DotNetCore\GenericRepository\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+D:\DotNetCore\GenericRepository\Models\bin\Debug\netcoreapp2.1\Models.dll
+D:\DotNetCore\GenericRepository\Models\bin\Debug\netcoreapp2.1\Models.pdb
+D:\DotNetCore\GenericRepository\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+D:\DotNetCore\GenericRepository\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\DotNetCore\GenericRepository\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\DotNetCore\GenericRepository\Models\obj\Debug\netcoreapp2.1\Models.dll
+D:\DotNetCore\GenericRepository\Models\obj\Debug\netcoreapp2.1\Models.pdb

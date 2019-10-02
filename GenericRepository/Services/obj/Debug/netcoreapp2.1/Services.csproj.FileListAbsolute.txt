@@ -1,0 +1,14 @@
+D:\DotNetCore\GenericRepository\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\DotNetCore\GenericRepository\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\DotNetCore\GenericRepository\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\DotNetCore\GenericRepository\Services\bin\Debug\netcoreapp2.1\Database.dll
+D:\DotNetCore\GenericRepository\Services\bin\Debug\netcoreapp2.1\Models.dll
+D:\DotNetCore\GenericRepository\Services\bin\Debug\netcoreapp2.1\Database.pdb
+D:\DotNetCore\GenericRepository\Services\bin\Debug\netcoreapp2.1\Models.pdb
+D:\DotNetCore\GenericRepository\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\DotNetCore\GenericRepository\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\DotNetCore\GenericRepository\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\DotNetCore\GenericRepository\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\DotNetCore\GenericRepository\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\DotNetCore\GenericRepository\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\DotNetCore\GenericRepository\Services\obj\Debug\netcoreapp2.1\Services.pdb

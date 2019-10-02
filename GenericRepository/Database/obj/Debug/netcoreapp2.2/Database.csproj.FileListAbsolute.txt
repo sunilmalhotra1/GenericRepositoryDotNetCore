@@ -1,0 +1,14 @@
+D:\DotNetCore\GenericRepository\Database\bin\Debug\netcoreapp2.2\Database.deps.json
+D:\DotNetCore\GenericRepository\Database\bin\Debug\netcoreapp2.2\Database.runtimeconfig.json
+D:\DotNetCore\GenericRepository\Database\bin\Debug\netcoreapp2.2\Database.runtimeconfig.dev.json
+D:\DotNetCore\GenericRepository\Database\bin\Debug\netcoreapp2.2\Database.dll
+D:\DotNetCore\GenericRepository\Database\bin\Debug\netcoreapp2.2\Database.pdb
+D:\DotNetCore\GenericRepository\Database\bin\Debug\netcoreapp2.2\Models.dll
+D:\DotNetCore\GenericRepository\Database\bin\Debug\netcoreapp2.2\Models.pdb
+D:\DotNetCore\GenericRepository\Database\obj\Debug\netcoreapp2.2\Database.csprojAssemblyReference.cache
+D:\DotNetCore\GenericRepository\Database\obj\Debug\netcoreapp2.2\Database.csproj.CoreCompileInputs.cache
+D:\DotNetCore\GenericRepository\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfoInputs.cache
+D:\DotNetCore\GenericRepository\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfo.cs
+D:\DotNetCore\GenericRepository\Database\obj\Debug\netcoreapp2.2\Database.csproj.CopyComplete
+D:\DotNetCore\GenericRepository\Database\obj\Debug\netcoreapp2.2\Database.dll
+D:\DotNetCore\GenericRepository\Database\obj\Debug\netcoreapp2.2\Database.pdb
